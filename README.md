@@ -21,9 +21,9 @@ A web application for booking buses at IIIT Allahabad. This system allows studen
 
 ## Screenshots
 
-![Home Page]![home](https://github.com/user-attachments/assets/02f89c5c-e5b7-47d7-b0f3-31594f256267)
+Home Page ![home](https://github.com/user-attachments/assets/02f89c5c-e5b7-47d7-b0f3-31594f256267)
 
-![Booking Page] ![booking](https://github.com/user-attachments/assets/266c1cc5-8ace-4578-86d1-8e51be459e55)
+Booking Page ![booking](https://github.com/user-attachments/assets/266c1cc5-8ace-4578-86d1-8e51be459e55)
 
 
 ## Technologies Used
